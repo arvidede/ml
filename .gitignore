@@ -25,6 +25,8 @@ vignettes/*.pdf
 /*_cache/
 /cache/
 
+*/__pycache__/
+
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
@@ -43,3 +45,5 @@ vignettes/*.pdf
 ml.egg-info/
 dist/
 build/
+
+

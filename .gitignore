@@ -38,3 +38,8 @@ vignettes/*.pdf
 
 # System files
 *.DS_Store
+
+/venv/
+ml.egg-info/
+dist/
+build/
